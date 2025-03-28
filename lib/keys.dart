@@ -1,0 +1,4 @@
+var Publishablekey =
+    "pk_test_51R7TtNQRW8Q2GZ29K4rUWMv5WslGdKOdNQJYZWR4FtMXU9R9xid647GxU8aONf2iWDYrSIEbal3VyTcWaiZKiESR00RMnyY8fM";
+var Secretkey =
+    "sk_test_51R7TtNQRW8Q2GZ295WxEb30QXYwU2cQ5ImIm7waGxrV0rMWWUHpZPQjWUiYyjdowCJXYWFmQuiRtjzbmo5mkejIo00wlR5EnUd";
